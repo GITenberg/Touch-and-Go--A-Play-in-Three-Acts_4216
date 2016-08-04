@@ -1,0 +1,29 @@
+_repo: Touch-and-Go--A-Play-in-Three-Acts_4216
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Lawrence, D.H.
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, David Herbert
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+- GITenberg
+title: 'Touch and Go: A Play in Three Acts'
+url: http://www.gutenberg.org/ebooks/4216
